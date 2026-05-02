@@ -133,3 +133,38 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
 湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+
+
+TVB翡翠台,翡翠台,TVB Jade,Jade,无线翡翠台,無線翡翠台,J5
+TVB明珠台,明珠台,TVB Pearl,Pearl,无线明珠台
+TVB-J2,J2,TVB J2,无线J2
+TVB无线新闻台,TVB News,无线新闻台,无线新闻,TVB新闻台,无线财经新闻,无线财经·娱乐新闻
+ViuTV,Viu TV,Viu99,无线TV,99台
+凤凰卫视香港台,凤凰卫视香港,Phoenix HK,凤凰香港台
+凤凰卫视中文台,凤凰中文,Phoenix Chinese,凤凰
+凤凰卫视资讯台,凤凰资讯,Phoenix InfoNews,凤凰新闻
+RTHK31,港台电视31,RTHK TV 31,港台31
+RTHK32,港台电视32,RTHK TV 32,港台32
+RTHK33,港台电视33,RTHK TV 33,港台33
+澳视澳门,澳门澳视,TDM Macau,TDM澳门,TDM澳视澳门,澳广视
+澳视高清,TDM HD,澳门澳视高清
+澳门资讯,TDM Info,澳门资讯频道
+公视一台,公视,PTS,公共电视,公视主频
+公视二台,公视2台,PTS 2
+台视,TTV,台湾电视,台视主频
+中视,CTV,中国电视,中视主频
+华视,CTS,中华电视,华视主频
+民视,FTV,民间全民电视,民视无线台
+三立新闻台,三立新闻,SET News,SETN
+TVBS新闻,TVBS-N,TVBS News,TVBS新闻台
+TVBS,TVBS欢乐,TVBS-G
+东森新闻,EBC News,东森新闻台
+中天新闻,CTI News,中天新闻台
+Bloomberg,Bloomberg TV,Bloomberg Television,Bloomberg US,BBG
+Bloomberg Asia,Bloomberg Asia Pacific,Bloomberg HK,彭博亚洲
+CNN,CNN International,CNN US,CNN HD
+BBC World News,BBC World,BBC News,BBC国际新闻
+NHK World,NHK World-Japan,NHK国际,日本放送NHK
+半岛电视台,Al Jazeera,Al Jazeera English,半岛
+DW,Deutsche Welle,DW English,德国之声
+CNBC,CNBC US,CNBC World,CNBC International
