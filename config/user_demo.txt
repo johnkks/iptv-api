@@ -41,6 +41,9 @@ ViuTV Six
 RTHK31
 RTHK32
 RTHK33
+HOY TV
+HOY资讯台
+香港耀才财经台
 
 澳门频道,#genre#
 澳视澳门
@@ -66,6 +69,7 @@ TVBS
 八大综合
 卫视中文台
 纬来日本
+TaiwanPlus
 
 国际新闻,#genre#
 Bloomberg
@@ -75,6 +79,12 @@ BBC World News
 NHK World
 半岛电视台
 DW
+CNA
+France 24
+Sky News
+TRT World
+Reuters
+NBC News Now
 
 国际财经,#genre#
 CNBC
