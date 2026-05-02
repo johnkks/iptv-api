@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-02 21:07:14,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+2026-05-02 21:19:52,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 央视频道,#genre#
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
@@ -9,7 +9,9 @@ CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 广东频道,#genre#
 
 香港频道,#genre#
+香港开电视,https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 
 澳门频道,#genre#
 
@@ -18,5 +20,8 @@ CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 国际新闻,#genre#
 CNN,https://jmp2.uk/stvp-GBBD8000016N
 半岛电视台,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 
 国际财经,#genre#

@@ -1,11 +1,21 @@
 #EXTM3U x-tvg-url="https://g.blfrp.cn/https://raw.githubusercontent.com/johnkks/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-05-02 21:07:14
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="🕘️更新时间",2026-05-02 21:19:52
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV6.png" group-title="央视频道",CCTV6
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="香港开电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港开电视.png" group-title="香港频道",香港开电视
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
 http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY TV.png" group-title="香港频道",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="国际新闻",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="半岛电视台" tvg-name="半岛电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/半岛电视台.png" group-title="国际新闻",半岛电视台
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="国际新闻",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRT World.png" group-title="国际新闻",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Reuters.png" group-title="国际新闻",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
