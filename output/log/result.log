@@ -1,0 +1,2 @@
+ID: -8894045547662884335, 名称: BBC World News, 接口: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8, 来源: 订阅源, 协议类型: ipv4, 位置: 日本-东京都, 运营商: Akamai节点, 延迟: 510 ms, 速率: 7.60 M/s, 分辨率: 1280x720, 帧率: 50.0, 视频编解码器: h264, 音频编解码器: aac
+ID: -2444073789174525483, 名称: NHK World, 接口: https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8, 来源: 订阅源, 协议类型: ipv4, 位置: 美国, 运营商: AT&T网络, 延迟: 398 ms, 速率: 8.10 M/s, 分辨率: 1280x720, 帧率: 未知, 视频编解码器: h264, 音频编解码器: aac
